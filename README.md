@@ -1,2 +1,4 @@
 # SlothQL
-A sloth API
+A Sloth API 
+
+## ALL THE SLOTHS
